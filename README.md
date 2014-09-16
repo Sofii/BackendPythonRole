@@ -4,7 +4,7 @@ BackendPythonRole
 BackendPythonRole
 
 
-Motivated, independent backend python OR NodeJS OR PHP developer for exciting new start-up in Tech City!
+Motivated, independent backend Python OR NodeJS OR PHP developer for exciting new start-up in Tech City!
 
 This role is working with a small team of passionate self-starters. We are looking for a cultural fit who can get stuck into this task without being micromanaged. 
 
